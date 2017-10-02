@@ -4,8 +4,8 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/10/02/page/</loc>
-    <lastmod>2017-10-02T15:43:54.000Z</lastmod>
+    <loc>http://yoursite.com/2017/10/02/2017102/</loc>
+    <lastmod>2017-10-02T15:46:51.000Z</lastmod>
     <data>
         <display>
         <title>2017102</title>
@@ -20,21 +20,6 @@
     
     
     
-    
-  <url>
-    <loc>http://yoursite.com/2017/09/11/hello/</loc>
-    <lastmod>2017-09-11T09:29:16.000Z</lastmod>
-    <data>
-        <display>
-        <title>hello</title>
-        <pubTime>2017-09-11T09:28:40.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>http://yoursite.com/2017/09/11/hello-world/</loc>
