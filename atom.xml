@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-10T15:33:36.000Z</updated>
+  <updated>2017-10-11T15:54:43.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>樱花在飞舞</title>
+    <link href="http://yoursite.com/2017/10/11/page-6/"/>
+    <id>http://yoursite.com/2017/10/11/page-6/</id>
+    <published>2017-10-11T15:48:34.000Z</published>
+    <updated>2017-10-11T15:54:43.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="造梦师" scheme="http://yoursite.com/tags/%E9%80%A0%E6%A2%A6%E5%B8%88/"/>
+    
+  </entry>
   
   <entry>
     <title>让你带着幸福去天国</title>
