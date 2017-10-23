@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-22T15:04:19.000Z</updated>
+  <updated>2017-10-23T15:21:43.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>拉勾--高端互联网招聘工具</title>
+    <link href="http://yoursite.com/2017/10/23/page-1/"/>
+    <id>http://yoursite.com/2017/10/23/page-1/</id>
+    <published>2017-10-22T23:53:28.000Z</published>
+    <updated>2017-10-23T15:21:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>校招季每个参与校招的人都会听过几个求职的app，其中拉勾是较为有名的一个，最初版本的拉勾还存在着简历不好投递，返回后找不到原来路口的问题，在最近的更新后，页面大改，这些问题也随之改变。</p><p>所有求职app的第一优先级的功能为展现符合你简历的职位以及搜索职位，所以拉勾用户进去的首页就是这样的，而消息以及我则是辅助功能，言职则是像求职者的一个朋友圈，可以分享干货，分享经验，也可以提问。在这方面上，拉勾会有社交的感觉。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;校招季每个参与校招的人都会听过几个求职的app，其中拉勾是较为有名的一个，最初版本的拉勾还存在着简历不好投递，返回后找不到原来路口的问题，在最近的更新后，页面大改，这些问题也随之改变。&lt;/p&gt;
+&lt;p&gt;所有求职app的第一优先级的功能为展现符合你简历的职位以及搜索职位，所以拉
+      
+    
+    </summary>
+    
+    
+      <category term="产品" scheme="http://yoursite.com/tags/%E4%BA%A7%E5%93%81/"/>
+    
+  </entry>
   
   <entry>
     <title>社交产品开PA</title>
