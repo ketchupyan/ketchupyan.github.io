@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-14T16:01:39.000Z</updated>
+  <updated>2017-11-15T15:57:57.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>好好准备春招吧</title>
+    <link href="http://yoursite.com/2017/11/15/page-1/"/>
+    <id>http://yoursite.com/2017/11/15/page-1/</id>
+    <published>2017-11-15T15:35:08.000Z</published>
+    <updated>2017-11-15T15:57:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="秋招基本结束了，怎么准备春招呢"><a href="#秋招基本结束了，怎么准备春招呢" class="headerlink" title="秋招基本结束了，怎么准备春招呢"></a>秋招基本结束了，怎么准备春招呢</h2><p>金九银十，秋招的高峰期就是在九月和十月，十一月和十二月也会有，但是很少，所以秋招可以说基本结束了，那么没有找到工作的应该怎么准备春招呢。</p><h3 id="首先要准备精美的简历"><a href="#首先要准备精美的简历" class="headerlink" title="首先要准备精美的简历"></a>首先要准备精美的简历</h3><p>简历千万不要只做一份，我的学长就曾经告诉过我每家公司会喜欢不一样的简历，有的喜欢绚丽多彩的，有的喜欢简洁明了，所以关于简历问题千万不要制作一份，当然关于简历的制作有人曾经问我可以用photoshop做吗，我的回答是可以是可以，但是尽量使用word好一点，因为word保存成pdf后文字还可以被复制，有利于HR录入你的信息，并且word的模版也很多。</p><p>这里推荐几个网站：五百丁，这个网站个人觉得还是很良心，模版众多，还有ppt，但是要收费，不贵可以接受。不过五百丁只能生成pdf文档。<br>乔布简历，和五百丁性质相同的简历网站。但是简历性格偏简洁，并且可以生成html文件以及word文件。<br>除去这两个比较有名的网站外，还有一些ppt模版网站也会有，51免费ppt网站，officePLUS（强烈推荐）。</p><p>所以简历基本可以完成</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;秋招基本结束了，怎么准备春招呢&quot;&gt;&lt;a href=&quot;#秋招基本结束了，怎么准备春招呢&quot; class=&quot;headerlink&quot; title=&quot;秋招基本结束了，怎么准备春招呢&quot;&gt;&lt;/a&gt;秋招基本结束了，怎么准备春招呢&lt;/h2&gt;&lt;p&gt;金九银十，秋招的高峰期就是在九月和十
+      
+    
+    </summary>
+    
+    
+      <category term="校招" scheme="http://yoursite.com/tags/%E6%A0%A1%E6%8B%9B/"/>
+    
+  </entry>
   
   <entry>
     <title>炉石传说--陪伴我时间最长的游戏</title>
@@ -446,28 +469,6 @@
       
       
         &lt;h2 id=&quot;特殊的日子做了些特殊的事情&quot;&gt;&lt;a href=&quot;#特殊的日子做了些特殊的事情&quot; class=&quot;headerlink&quot; title=&quot;特殊的日子做了些特殊的事情&quot;&gt;&lt;/a&gt;特殊的日子做了些特殊的事情&lt;/h2&gt;&lt;h3 id=&quot;往后的打算&quot;&gt;&lt;a href=&quot;#往后的打
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/09/11/hello-world/"/>
-    <id>http://yoursite.com/2017/09/11/hello-world/</id>
-    <published>2017-09-11T09:20:29.000Z</published>
-    <updated>2017-10-04T15:41:02.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>欢迎来到盐巴酱的博客</p><p>盐巴酱不时更新自己的某些看法</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;欢迎来到盐巴酱的博客&lt;/p&gt;
-&lt;p&gt;盐巴酱不时更新自己的某些看法&lt;/p&gt;
       
     
     </summary>
