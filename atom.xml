@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-13T06:55:53.069Z</updated>
+  <updated>2018-10-14T15:15:02.404Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>page</title>
+    <link href="http://yoursite.com/2018/10/14/page-1/"/>
+    <id>http://yoursite.com/2018/10/14/page-1/</id>
+    <published>2018-10-14T15:15:02.000Z</published>
+    <updated>2018-10-14T15:15:02.404Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>以月圆之夜来讲下国产游戏</title>
+    <link href="http://yoursite.com/2018/10/14/page/"/>
+    <id>http://yoursite.com/2018/10/14/page/</id>
+    <published>2018-10-14T15:14:27.000Z</published>
+    <updated>2018-10-14T15:15:45.001Z</updated>
+    
+    <content type="html"><![CDATA[<p>先介绍下《月圆之夜》这款游戏，是一款国产单机卡牌游戏，美术和音乐其实很棒，玩起来很有感觉。</p><p>游戏的基本剧情就是小红帽的奶奶失踪了，但是小红帽不知道是谁抓走的，但是诸多线索指向黑森林，于是小红帽决定走进黑森林寻找真相，而在寻找过程中通过战斗获取不同的线索，以及在击败敌人后选择不同的谈话也会使得故事走向不同。</p><p>战斗方式因为是单机游戏，所以没有时间限制，除去一些敌人的特殊技能会导致有出牌时间限制，所以玩家有足够的时间思考；赢取战斗的方式就是将敌人的血条清零，详细看下面图片即可。<br><img src="https://upload-images.jianshu.io/upload_images/4021219-66b33f1cef99a49d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>这是两个玩家常会看到的页面，基本玩法和信息也可以通过这两张图来讲解一下。</p><h3 id="章节页面和战斗页面"><a href="#章节页面和战斗页面" class="headerlink" title="章节页面和战斗页面"></a>章节页面和战斗页面</h3><p><strong>章节&amp;剩余页面：总共有三个章节，每一个游戏界面会有三个页面提供选择，npc页面可以选择跳过，敌人页面也可以通过通往下一路口跳过，但是有些是无法跳过的。</strong><br><strong>声望和勇气：赢得一场战斗后会有对话，不同的对话会给予不同，声望大于勇气最后章节打女巫，勇气更大打狼人，两个都打过打神父，另外，声望达到4和8可以领取一次金币，勇气在领取体力，前期建议领金币</strong><br><strong>金币：可以用于升级/移除/购买卡牌，卡牌不是越多越好，所以提供了移除这个选项，金币的获取方式—赢取战斗</strong><br><strong>选择页面/路径：页面会有敌人也会有npc，比如老猫商店/仙女祝福等。</strong><br><strong>卡牌：卡牌的获取方式有很多：金币购买、开宝箱、交换。但是值得一提的是卡牌库不是越多越好，如果觉得没用并且不常用的可以去除</strong><br><img src="https://upload-images.jianshu.io/upload_images/4021219-04b1545932b71f75.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p><strong>生命值/等级/经验条：因为是个冒险游戏，所以你只有一条命，只有这一条生命,但是回复生命值的有许多种，修女可以通过天赋技能，也可以通过绷带回血</strong><br><strong>法力值：打出咒印卡法力值</strong><br><strong>行动力：行动牌需要行动力才可以打出</strong><br><strong>抽牌数和手牌上线：原始抽牌数量是2，可以通过升级增加</strong><br><strong>装备栏和状态栏：显示玩家的状态和装备</strong><br><strong>操作历史：显示之前打出的牌</strong><br><strong>技能：每个职业不同，升到一定等级才可以开启</strong><br>这就是章节页和战斗页面的基本数值了。</p><h3 id="职业和天赋技能"><a href="#职业和天赋技能" class="headerlink" title="职业和天赋技能"></a>职业和天赋技能</h3><p>最开始可选职业是4个，后续又出了两个，需要进行购买，这里先讲原来的四个<br>| 职业 | 天赋| 技能 |<br>| —— | —— | —— |<br>| 骑士 | 洗礼：选择卡组中一张卡升级，冷却时间是5次战斗 | 1.复制打出的下张卡 2.每损失一点生命增加一点护甲值 |<br>| 游侠 | 发现：免费打开一个宝箱，冷却时间4次战斗，可以不断打行动卡 | 1.免疫一回合 2.获得两点行动力，本回合打出一张行动卡回复3生命值 |<br>| 修女 | 治愈：回复全部生命，冷却时间4次战斗 | 1.造成伤害回复生命 2.额外获得一回合 |<br>| 女巫 | 迷惑：下次商店购买价格减半，冷却时间4次战斗 | 1.本回合法力值消耗减半 2.本回合咒术卡伤害+5 | </p><h3 id="月圆之夜是个好游戏，但是背后呢？"><a href="#月圆之夜是个好游戏，但是背后呢？" class="headerlink" title="月圆之夜是个好游戏，但是背后呢？"></a>月圆之夜是个好游戏，但是背后呢？</h3><p><img src="https://upload-images.jianshu.io/upload_images/4021219-74363dff98d46a94.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>前面说过月圆之夜的美术很好，配乐也不错，但是卡牌的数值呢，月圆的玩法借鉴了《DQ》、卡牌冒险者等；玩法上的借鉴并无不可，但是数值上，月圆的血量、魔法、行动力则是照抄的，卡牌数值大部分完全照搬，少数微调；地图和游戏循环也是。</p><p>我承认月圆相对于DQ有所创新，甚至在美术上碾压DQ和卡牌冒险者，但是月圆的创新并不足；在被玩家发现后则去找peter讲述月圆并希望得到支持（peter真的是个游戏天才，炉石的狗头人便是peter主要负责设计的）。</p><p>真正的顺序不应该是一开始有了月圆的想法，然后请教peter探讨游戏的详细设计，这就和今年网易的第五人格一样，先上车后补票可大丈夫？？</p><h3 id="国产游戏都会有这个问题吗？"><a href="#国产游戏都会有这个问题吗？" class="headerlink" title="国产游戏都会有这个问题吗？"></a>国产游戏都会有这个问题吗？</h3><p>大多数的国产游戏都可以找到游戏玩法，像荒野狂奔、我叫MT、迷你世界、贪吃蛇大作战、萌宠大爆炸、隆中对、不可思议的迷宫等等，即使优秀的艾希也依旧有抄袭的声音，从很早以前，抄袭玩法就有了。</p><p>对于玩法上的抄袭借鉴我觉得是在接受范围内，站在巨人的肩膀上进行一个创新是可以的，但是不能数值、地图、技能都抄袭吧。</p><p>杀戮尖塔也是卡牌冒险游戏，但是在EA阶段就广受好评了；三国杀借鉴了BANG，但是三国杀卡牌技能和历史结合，许多法术牌也有着中国特色，这些自身的创意就超越了BANG。</p><h3 id="依旧对国产游戏抱有信心"><a href="#依旧对国产游戏抱有信心" class="headerlink" title="依旧对国产游戏抱有信心"></a>依旧对国产游戏抱有信心</h3><p>就像最近火的太吾绘卷和中国式家长就是很好的证明，就像中国的动漫一样，也在慢慢的变好，只是在站在巨人的肩膀上希望依旧戴着敬畏之心。</p><p><img src="https://upload-images.jianshu.io/upload_images/4021219-b19f5ed7857cf029.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>月圆之夜可以试着去玩下–12元，可以在降价或者打折的时候购买，虽然算是roguelike游戏，但是月圆之夜死后可以继续从死的章节页开始，只是状态不会变。另外月圆之夜对于活力的设计并不是很好。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;先介绍下《月圆之夜》这款游戏，是一款国产单机卡牌游戏，美术和音乐其实很棒，玩起来很有感觉。&lt;/p&gt;
+&lt;p&gt;游戏的基本剧情就是小红帽的奶奶失踪了，但是小红帽不知道是谁抓走的，但是诸多线索指向黑森林，于是小红帽决定走进黑森林寻找真相，而在寻找过程中通过战斗获取不同的线索，以及在
+      
+    
+    </summary>
+    
+    
+      <category term="游戏 月圆之夜" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F-%E6%9C%88%E5%9C%86%E4%B9%8B%E5%A4%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>知乎产品分析以及招聘策划（个人想法）</title>
@@ -443,54 +481,6 @@
     
     
       <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>拉勾--高端互联网招聘工具</title>
-    <link href="http://yoursite.com/2017/10/23/lagou/"/>
-    <id>http://yoursite.com/2017/10/23/lagou/</id>
-    <published>2017-10-22T23:53:28.000Z</published>
-    <updated>2017-10-23T15:21:43.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>校招季每个参与校招的人都会听过几个求职的app，其中拉勾是较为有名的一个，最初版本的拉勾还存在着简历不好投递，返回后找不到原来路口的问题，在最近的更新后，页面大改，这些问题也随之改变。</p><p>所有求职app的第一优先级的功能为展现符合你简历的职位以及搜索职位，所以拉勾用户进去的首页就是这样的，而消息以及我则是辅助功能，言职则是像求职者的一个朋友圈，可以分享干货，分享经验，也可以提问。在这方面上，拉勾会有社交的感觉。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;校招季每个参与校招的人都会听过几个求职的app，其中拉勾是较为有名的一个，最初版本的拉勾还存在着简历不好投递，返回后找不到原来路口的问题，在最近的更新后，页面大改，这些问题也随之改变。&lt;/p&gt;
-&lt;p&gt;所有求职app的第一优先级的功能为展现符合你简历的职位以及搜索职位，所以拉
-      
-    
-    </summary>
-    
-    
-      <category term="产品" scheme="http://yoursite.com/tags/%E4%BA%A7%E5%93%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>社交产品开PA</title>
-    <link href="http://yoursite.com/2017/10/22/kaipa/"/>
-    <id>http://yoursite.com/2017/10/22/kaipa/</id>
-    <published>2017-10-22T14:57:40.000Z</published>
-    <updated>2017-10-22T15:04:19.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>作为开pa的早期用户，现今为止见证了开pa的改变，开pa的slogan是随手见朋友，但是随着版本的更新却是慢慢的背离这种slogan。</p><p>早期时候，开pa是以用户开好房间视频聊天为主，或者进入他人的房间，这个产品的设计确切的贴合了随手见朋友的概念，因为每个人都可以碰到不同的人，可以一起喜欢聊天，不喜欢则切出去。</p><p>但是更新后，却更像是为了一个家庭一个集体做的视频交流软件，只能邀请好友来参加你的房间聊天，这一点却是让我觉得和许多视频软件相互重合，同质化过于严重。</p><p>而最近则是新出了一个一起看视频的功能，可以一起看恐怖片，算是小创新。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;作为开pa的早期用户，现今为止见证了开pa的改变，开pa的slogan是随手见朋友，但是随着版本的更新却是慢慢的背离这种slogan。&lt;/p&gt;
-&lt;p&gt;早期时候，开pa是以用户开好房间视频聊天为主，或者进入他人的房间，这个产品的设计确切的贴合了随手见朋友的概念，因为每个人都可
-      
-    
-    </summary>
-    
-    
-      <category term="产品" scheme="http://yoursite.com/tags/%E4%BA%A7%E5%93%81/"/>
     
   </entry>
   
