@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-20T13:33:04.497Z</updated>
+  <updated>2019-04-23T07:17:25.761Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,16 +17,51 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>page</title>
-    <link href="http://yoursite.com/2019/01/20/ouwuou/"/>
-    <id>http://yoursite.com/2019/01/20/ouwuou/</id>
-    <published>2019-01-20T13:33:04.000Z</published>
-    <updated>2019-01-20T13:33:04.497Z</updated>
+    <title>元星科技二面-严强福-产品经理</title>
+    <link href="http://yoursite.com/2019/04/23/page/"/>
+    <id>http://yoursite.com/2019/04/23/page/</id>
+    <published>2019-04-23T07:15:30.000Z</published>
+    <updated>2019-04-23T07:17:25.761Z</updated>
+    
+    <content type="html"><![CDATA[<p>##一、你最喜欢的互联网产品是什么</p><p>答：我最喜欢的互联网产品是微信读书，我将从微信读书的定位、用户场景以及核心功能进行分析</p><p>###1.    定位：社交+阅读<br>微信读书是依托于微信产生的产品，所以有天然的社交链，而正是因为这个，我们可以看到好友正在看的书，以及好友看完书写的想法，可以进行思想上的碰撞，并且可以看到好友的阅读时长，激励我去进行阅读</p><p>###2.    用户场景<br>分为三个场景：看书前、看书时、看书后</p><p>####2.1 看书前<br>2.1.1 通过分析我以往的阅读记录推送我喜爱的书籍<br>2.1.2 读书日话题书籍推荐<br>2.1.3 好友正在阅读书籍<br>2.1.4 刚加入微信阅读时赠送一本书<br>2.1.5 书籍购买较为便宜，以及有月卡、季卡的推出 ，并且通过分享给好友获得</p><p>####2.2    看书时<br>2.2.1    良好的阅读体验，支持EPUB和TXT格式，排版良好<br>2.2.2    可以看到他人对于某个段落的想法<br>2.2.3    可以选择听书<br>2.2.4    自己可以做好笔记，写好想法 </p><p>####2.3    看书后<br>2.3.1    根据对应时长获得书币，用于购买图书<br>2.3.2    在想法社区中阅读自己的想法以及他人的想法以便对书籍复习<br>2.3.3    与好友的阅读时长进行对比<br>2.3.4    好友点赞和评论实现交流以及自我实现感 </p><p>###3.    功能分析</p><p>####3.1核心功能优缺点分析<br>微信读书的核心功能是发现添加书籍（根据各类分类选择书籍），阅读，发表想法，听书，分享书籍，赠送书籍，兑换书币。主要会将发现添加书籍，阅读书籍，发表想法，三个流程图展示在下面。</p><p>3.1.1 发现添加书籍</p><p><img src="https://upload-images.jianshu.io/upload_images/4021219-0223a8483d670bc1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p><em>优点</em>：用户加入书架的入口众多，并且当用户免费分享和增一得一成功后微信读书会自动将书籍加入用户的书架。<br><em>缺点</em>：加入书架之前应当有个是否将这本书加入书架的提醒或者是将这本书加入哪个分组，因为从这个流程来看添加至书架和书单没有任何联系，所以当用户创建好书单后，添加书籍却不能直接添加至自己的书单，而是要在书架里移来移去，那么书单功能显的很鸡肋。</p><p>3.1.2 阅读书籍<br><img src="https://upload-images.jianshu.io/upload_images/4021219-374a4623c3c35955.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p><em>优点</em>：阅读书籍很简单，赠一得一和免费分享等功能即使不分享，也可以阅读，虽然只是一部分，但是很好的满足了用户先去阅读，随后引诱用户购买。<br><em>缺点</em>：在老版本这样的阅读记录不明显，不利于用户查找，但最新版本在这方面进行了更新，用户可以查看自己的阅读记录</p><p>3.1.3发布想法<br><img src="https://upload-images.jianshu.io/upload_images/4021219-6016d3edafa5f944.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p><em>优点</em>：简单高效，用户可以直接在想法里发布想法，不用看书不用选择什么，直接就像朋友圈一样发布就行，也可以选择一本书或者在阅读的时候选择一段文字发布自己的想法，并且可以取决私密还是公开<br><em>缺点</em>：为书籍打分不明显，在最上方，以及在公开和私密也不明显</p><p>####3.2 主要功能分析<br>功能分析主要通过上面所提到的发现添加书籍（根据各类分类选择书籍），阅读，发表想法，听书，分享书籍，赠送书籍，兑换书币进行分析<br>3.2.1发现<br>“发现”功能放在一级入口，是微信读书通过好友阅读来引导好友打造一个阅读朋友圈，而关于发现书籍功能，前面的流程图也提到了优缺点，如果单独发现板块来讲，在交互设计方面使用的左右滑动的卡片形式，界面简洁，除此之外，发现板块还会有用户每周的阅读报告，时长多少，排名多少，给我一个总结，并且附上微信昵称签名，签名这个细小的设计让我很感动。</p><p>3.2.2阅读<br>阅读界面的选项有：目录、书签、划线、进度调节、亮度调节、背景更换、字体以及大小选择、书写书评、查看书评、今天一起阅读本书的人、设置为私密阅读、充值购买以及右上角的菜单按钮，里面包括：赠送书籍、点评书籍、分享、添加书签、语音朗读、纠错以及书籍详情等。<br>如果在阅读过程中长按一段文字则会复制划线，写想法，查询，分享，纠错。<br>总的来说基础功能微信读书都具备，并且各大app也相差不远，但是在界面的设计上微信读书更加简洁舒服。</p><p>3.2.3发表想法<br>很明显的可以感觉到微信读书在很用力的引导我写书评，不管有没有阅读都可以写，并且添加想法的按钮也非常显眼，所以对于微信读书来说，一直都是在打造读书朋友圈。<br>而这也是对于好友阅读书籍的一种帮助，相对于哪些高高在上以及一些网站的评分而言，自己相同爱好的人的评分和想法显得更加可以相信，所以我可以更加放心的阅读书籍，并且发表想法跟朋友交流。</p><p>3.2.4兑换书币<br>这个功能是我认为比想法还要更加亮点的功能，让我读书后使用自己的读书时长换取书币然后再利用书币去买书，给用户一个双重的荣誉感，并且在读书时长上人总是有一种攀比心理，在这种心理的驱使下，我会使用更多时长在微信读书上。</p><p>###4.分析微信读书的吸引我的的地方<br>4.1分享：分享和奖励是分不开的，用户在赠一得一和免费领取书籍上都是通过分享，用户只要分享成功，就可以免费获得一本书，而在赠一得一的设计上，我分享给好友后，好友领取后，用户也可以获得一本书籍，这样就可以吸引一批用户前来使用。<br>4.2激励：前面提到的时长问题，用户总是会互相攀比的，当看到好友的时长比我长的时候总会忍不住去攀比。<br>4.3奖励：时长的设计，阅读的越多，那么就可以兑换更多的书币，就可以买更多的书籍，并且对于用户来说，并且除去这个奖励机制以外，用户发表想法后，得到的赞和评论都是一种奖励。</p><p>###5．产品总结及建议<br>微信读书已经养成了我一个读书习惯，并且其中的奖励机制是我特别喜欢，但是微信读书依旧有许多值得改进的地方。下面通过SWOT行分析<br>S：前面提到的背靠微信大山，自带的流量，自带的好友体系，自带的极大用户群，对于一个想做读书朋友圈的app来说占据了天时，并且微信读书的开发人员善于听取用户的意见。</p><p>W：网络文学较少，并且市面上已经有了许多其他的阅读类app，以及在部分功能上微信读书显得鸡肋，书单功能便是如此；商业化方面也较为单一</p><p>O：我认为微信读书完全可以跟微信一样，打造一个老年人使用的读书软件，在上面的数据中显示60%是年轻人，而老年人占得用户量极少，所以我认为微信读书可以有一波人口红利，并且已经有了听书作为背景完全可以做</p><p>T：依旧还是市面上其他app的竞争，首先qq阅读和微信阅读一样是拥有微信登陆的，并且qq阅读拥有的书籍更多。</p><p>##二、尽可能细节化告诉我当点击一个app到出现这个app正式页面的过程，这个app会发生什么</p><p>答：</p><p>###1.App页面过程<br>1.1点击手机app图标，页面展示app的启动页面，有些是广告，有些是app的slogan，有些是图片。<br>1.2 展示app的主页面，但是当网络不好时，有些app会展示骨架加载图（比如知乎 简书等app）</p><p>###2.App原理过程（这方面是当年学代码时看过他人写过的答案）<br>2.1.点击手机app图标，Launcher进程采用Binder IPC向system_server进程发起startActivity请求；<br>2.2.system_server进程接收到请求后，向zygote进程发送创建进程的请求；<br>2.3.Zygote进程fork出新的子进程，即App进程；<br>2.4.App进程，通过Binder IPC向sytem_server进程发起attachApplication请求；<br>2.5.system_server进程在收到请求后，进行一系列准备工作后，再通过binder IPC向App进程发送scheduleLaunchActivity请求；<br>2.6.App进程的binder线程（ApplicationThread）在收到请求后，通过handler向主线程发送LAUNCH_ACTIVITY消息；<br>2.7.主线程在收到Message后，通过发射机制创建目标Activity，并回调Activity.onCreate()等方法。<br>2.8.到此，App便正式启动，开始进入Activity生命周期，执行完onCreate/onStart/onResume方法，UI渲染结束后便可以看到App的主界面。</p><h2 id="三、如何解决技术开发人员和UI设计人员意见不一致的情况？"><a href="#三、如何解决技术开发人员和UI设计人员意见不一致的情况？" class="headerlink" title="三、如何解决技术开发人员和UI设计人员意见不一致的情况？"></a>三、如何解决技术开发人员和UI设计人员意见不一致的情况？</h2><p>答：首先产品比技术开发会更懂UI和交互，比UI设计人员更懂技术研发，这是产品的相对优势。</p><ol><li>寻求导致意见不一致的本质原因，与两者进行单独沟通；是因为技术没有按照UI所做的切图标注进行开发，还是UI设计人员所提的要求没有必要实现，并且记录下来</li><li>将两者的问题与产品战略放到一起，分清楚事情优先级，</li><li>弄清楚研发和设计手头上的工作，并且进行衡量下两者的工作量</li><li>做好这方面的工作后思考如何让两者达到一个平衡点并进行说服，并且让两者明白哪个更为重要，是对产品体验更加好的方案</li><li>在工作上强调团队关系，打破工种关系</li></ol>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;p&gt;##一、你最喜欢的互联网产品是什么&lt;/p&gt;
+&lt;p&gt;答：我最喜欢的互联网产品是微信读书，我将从微信读书的定位、用户场景以及核心功能进行分析&lt;/p&gt;
+&lt;p&gt;###1.    定位：社交+阅读&lt;br&gt;微信读书是依托于微信产生的产品，所以有天然的社交链，而正是因为这个，我们可以看到
+      
+    
     </summary>
     
+    
+      <category term="面试" scheme="http://yoursite.com/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>猫狗双全真是欢乐--欧呜欧</title>
+    <link href="http://yoursite.com/2019/01/20/ouwuou/"/>
+    <id>http://yoursite.com/2019/01/20/ouwuou/</id>
+    <published>2019-01-20T13:33:04.000Z</published>
+    <updated>2019-01-20T13:35:01.004Z</updated>
+    
+    <content type="html"><![CDATA[<p>许多朋友养了猫和狗后都陷入了一种宠物奴的状态，朋友圈晒着，头像换着；简直要宠上天去的那种感觉。这种感觉在去朋友家撸过猫后真的能理解，毕竟宠物长得可爱，又容易达到自己的心里预期。那如果把猫和狗绑在一起会怎么样呢</p><p><img src="https://upload-images.jianshu.io/upload_images/4021219-ed2b1cb29431db34.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>欧呜欧OWO就是这样的一款游戏，黄色的是橘猫，黑白相间的是狗子二哈，游戏开始前给了一个背景故事。</p><p><strong>猫狗主人在家时相亲相爱，主人有事离开家后相爱相杀导致自己被绳子绑在一起，又没有食物，只能两人合作去厨房找吃的了，所以玩游戏过程中可以看到很多厨房的日常物品</strong></p><p><img src="https://upload-images.jianshu.io/upload_images/4021219-a0cf66088facf125.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>在说游戏之前再说下这个游戏的团队吧–NEXT Studios，这个团队是我校招时最想去的团队，同时它也在我最想去的公司–腾讯，但我没去成。</p><p><img src="https://upload-images.jianshu.io/upload_images/4021219-4c27fe36d1a94b20.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>说起腾讯的游戏团队，很多人想起的都是天美和光子，毕竟王者荣耀和刺激战场玩家众多。但是NEXT的游戏相对比这个团队本身知名度应该高很多。</p><p>《三竹里》、《死神来了》、《彩虹坠入》和《尼山萨满》都是这个团队研发的，感兴趣的朋友可以玩玩，都很好玩，因为他们没KPI，没有营销压力，这样可以做出好游戏，可以带来好口碑，但同时也会又很大问题，赚不了钱，要靠其他部门支持研发经费。</p><p>同样感兴趣的朋友可以去了解下这个团队，或许哪一天你们可以加入这个团队并且做出自己的游戏，以及我认为这个团队将来会做出一款很优秀的3A大作。</p><p>开始玩游戏了，游戏的机制很简单，以其中一只宠物作为一个圆心，另一只做圆周运动，碰到障碍物则会反向运动。</p><p>当你点击屏幕后，圆心会变换成另一只宠物，刚是圆心的宠物做圆心运动了，这样会消耗一些能量，能量不足时不能置换圆心，以及紫色区域也不能置换，不能停留。</p><p><img src="https://upload-images.jianshu.io/upload_images/4021219-aeb95f02fb89fa84.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>碰到刀叉之类的会掉血，前期血量只有一点，不过每次到达营地也就是终点后可以通过商店提高生命上限、能量回复、攻击力、恢复生命这些数值。</p><p><img src="https://upload-images.jianshu.io/upload_images/4021219-62c3655ef0739420.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>购买物品需要宠物饼干，宠物饼干的获得就是从游戏途径一点一点获得的，有些要注意的点是吃了宠物饼干加一份，当然还会有鱼干和骨头之类的东西，这些不能吃错了，猫吃鱼干，狗狗吃大骨头，吃对了是5分，吃错了是1分，所以千万不能吃错呀。</p><p><img src="https://upload-images.jianshu.io/upload_images/4021219-a3bc9748f4853a2b.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>这个游戏除去移动、躲避还有攻击这个操作，当接近敌人时，要注意敌人的血条会增加两个黄色箭头，这个时候再次点击屏幕就可以释放冲击波伤害，但也会消耗能量，这个冲击波的提示只会在第一次会有，所以更可靠的是看蜜蜂血量。</p><p><img src="https://upload-images.jianshu.io/upload_images/4021219-dfd735369b6d381a.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>这些就是游戏的基本玩法了，当然这只是一部分，去玩的话还会发现更多有趣的东西，比如炸弹，比如举行蜜蜂，比如解锁，还有菜盘子，怎么让猫狗和谐合作也是问题。</p><p>是一款很有趣的游戏，画风也好，音乐也好，玩起来都会有一丝丝的开心，但是手残星人的话玩到后面可能会有一丝暴躁。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;许多朋友养了猫和狗后都陷入了一种宠物奴的状态，朋友圈晒着，头像换着；简直要宠上天去的那种感觉。这种感觉在去朋友家撸过猫后真的能理解，毕竟宠物长得可爱，又容易达到自己的心里预期。那如果把猫和狗绑在一起会怎么样呢&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload-
+      
+    
+    </summary>
+    
+    
+      <category term="游戏" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F/"/>
     
   </entry>
   
@@ -462,30 +497,6 @@
     
     
       <category term="电影" scheme="http://yoursite.com/tags/%E7%94%B5%E5%BD%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>奥日与黑暗森林--爱与救赎</title>
-    <link href="http://yoursite.com/2017/11/16/%E5%A5%A5%E6%97%A5%E4%B8%8E%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97/"/>
-    <id>http://yoursite.com/2017/11/16/奥日与黑暗森林/</id>
-    <published>2017-11-16T15:50:05.000Z</published>
-    <updated>2017-11-16T15:50:44.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>不知道各位有没有玩过<strong>《奥里与黑暗森林》</strong>这个关于爱和救赎的游戏。</p><p><img src="http://upload-images.jianshu.io/upload_images/4021219-e6c4bca2b4e94c40.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>就是上面这个</p><p>这个游戏除去画面精良和BGM超好听外，故事情节也令我深思，里面的黑子就符合题主所说的慷慨赴死的人物。</p><p>当然了她不是人，是一只黑色大鸟，一只愿意用生命爱护孩子的大鸟</p><p><img src="http://upload-images.jianshu.io/upload_images/4021219-37fc4c95342d78fd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>黑子和她的孩子们。</p><p><img src="http://upload-images.jianshu.io/upload_images/4021219-9995832629545246.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>我没记错的话，这是黑子第一次出现的情景，也就是我从一个死了50多次的地方出来就碰到了黑子。</p><p>说真的黑子真的挺吓人，特别是最后一个关卡的时候俯冲抓奥里的时候。玩过的玩家应该都懂。</p><p>至于他为什么要抓奥里，起源于一个暴风雨夜，暴风雨夜里，因为纳鲁对奥里的过分爱护让世界树失去了她的孩子，为此，世界树释放了自己的光芒和愤怒，也就是这些光芒，杀死了黑子的孩子，而在外出觅食的黑子赶回去的时候，她的三个孩子已经死亡。而在这次暴风雨中，纳鲁也死去了。</p><p><img src="http://upload-images.jianshu.io/upload_images/4021219-dd84807c71b77a7c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>为了保护自己最后的一个孩子（还是一个蛋），夺走了世界树的元素之心，为此整个世界变的支离破碎，这就是奥里为什么要去寻找元素之心的背景故事。</p><p>奥里为了回复元素的平衡到处寻找元素，这是责任。</p><p>在最后奥里集齐所有元素得到元素之心时，整个世界在火焰中焚烧，只有将元素之心放回世界树才可以拯救这个世界。而在这个时候，黑子抓住了奥里。</p><p>或许一切都要绝望的时候，纳鲁（被kumo复活的）赶了过来，不顾火焰不顾地形赶了过来，或许同为是母亲的原因，黑子被这一幕感动，清醒了过来，想起了自己最后一个孩子。</p><p>黑子自己将元素之心放入了世界树当中。</p><p><img src="http://upload-images.jianshu.io/upload_images/4021219-097b88234245feee.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>与此同时，黑子被世界树的光芒杀死了，当这一刻发生的时候，我有点懵，因为黑子一直都是一个受害者，可不知道为什么是这样的结局。</p><p>或许这就是这个游戏的主旨：爱与救赎，我们犯下了过错，但是我们可以努力去弥补我们的错误。</p><p>最后放一张游戏通关图片</p><p><img src="http://upload-images.jianshu.io/upload_images/4021219-fc8b42ee91ff8611.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>重点来了，拿出笔来，画重点。</p><p><strong>现在这个游戏steam打折最便宜的时候只要34元，促销打折，34元</strong></p><p>BGM就已经值这个价钱了（毕竟我最喜欢她的BGM）<br>另外这个游戏的第二部**奥日与鬼火意志，有兴趣可以看看视频地址：<a href="https://www.bilibili.com/video/av11262629/?from=search&amp;seid=14146591078672715261" target="_blank" rel="external">https://www.bilibili.com/video/av11262629/?from=search&amp;seid=14146591078672715261</a></p><p>顺便也贴一下第一步的宣传片吧：<a href="https://www.bilibili.com/video/av5153400/?from=search&amp;seid=16335067335978958914" target="_blank" rel="external">https://www.bilibili.com/video/av5153400/?from=search&amp;seid=16335067335978958914</a><br>真的强烈推荐这个游戏。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;不知道各位有没有玩过&lt;strong&gt;《奥里与黑暗森林》&lt;/strong&gt;这个关于爱和救赎的游戏。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/4021219-e6c4bca2b4e94c40.
-      
-    
-    </summary>
-    
-    
-      <category term="游戏" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F/"/>
     
   </entry>
   
